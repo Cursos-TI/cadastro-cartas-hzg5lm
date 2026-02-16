@@ -1,12 +1,16 @@
 #include <stdio.h>
 
-// Desafio Super Trunfo - Países
-// Tema 1 - Cadastro das cartas
-// Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
+
+/**
+ * Desafio Super Trunfo - Países
+ * Nível: Novato
+ * Objetivo: Cadastro e exibição de duas cartas de cidades.
+ */
+
 
 int main() {
-  
-   printf("Bem-vindo ao Jogo Super Trunfo!\n");
+
+    printf("Bem-vindo ao Jogo Super Trunfo!\n");
 
 
 // --- VÁRIÁVEIS DA CARTA 1 ---
@@ -109,4 +113,6 @@ int main() {
     return 0;
 
 
-} 
+
+
+}
